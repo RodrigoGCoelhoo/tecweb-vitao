@@ -1,0 +1,19 @@
+.quote-item {
+  width: 80%;
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.delete-btn {
+  border: 0px;
+  background-color: transparent;
+
+  cursor: pointer;
+}
+
+.delete-img {
+  width: 20px;
+  margin-right: 10px;
+}
